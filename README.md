@@ -1,97 +1,122 @@
-# ⛽ BUTCHER FUEL | ENERGY | STORE
+# ⛽⚡ BUTCHER FUEL | ENERGY | STATION
 
-> **Fuel the Grind. Energize the Hustle.**  
-> Complete open-source blueprint + live prototype for a next-gen energy brand.
+> **Gas Up Your Vehicle. Fuel Up Your Ambition.** ⛽⚡  
+> An open-source blueprint for the Philippines' first hybrid Fuel Station + Energy Store concept.
 
-[[Website](https://butcherhub-6ca2tn9m.manus.space)](https://butcherhub-6ca2tn9m.manus.space)
-[[MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[[Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[[Discord](https://img.shields.io/badge/Chat-Discord-7289da)](https://discord.gg/yourlink)
+[[⛽ Live Prototype](https://butcherhub-6ca2tn9m.manus.space)](https://butcherhub-6ca2tn9m.manus.space)
+[[📜 License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[[🤝 Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**Live Prototype: [butcherhub-6ca2tn9m.manus.space](https://butcherhub-6ca2tn9m.manus.space)**
+**Website: https://butcherhub-6ca2tn9m.manus.space**
 
-**Butcher Fuel & Energy** is an open blueprint to build the next big energy drink + lifestyle brand sa PH. Hindi lang ito concept. May working website na, store framework na, at buong playbook from formula to fulfillment.
+### 📌 Brand Clarification
 
-Goal: Gawing community-built yung unang Filipino energy brand na lalaban globally.
+**Important: Butcher Fuel does not sell meat products.** 🥩❌  
+"Butcher" is a brand identity representing individuals who relentlessly grind every day. Builders, riders, drivers, and entrepreneurs. We provide fuel for their vehicles and fuel for their performance.
 
-### 🔥 Bakit "Butcher"?
+**What we sell: Gasoline, Diesel, Energy Drinks, and Road Essentials.** ⛽🥤
 
-Para sa mga gumigiling araw-araw. Builders, athletes, gamers, riders, 9-5 grinders na may 5-9 side hustle. We cut through the BS energy drinks. Pure fuel, no crash, no fluff.
+### ⛽🔥 Concept Overview
 
-### 🛒 Live Store + Website
+Butcher Fuel Station is a hybrid retail concept built for the modern Filipino workforce.
 
-Check mo agad yung prototype store natin:  
-**👉 https://butcherhub-6ca2tn9m.manus.space**
+**Two Types of Fuel. One Destination.** ⛽⚡
 
-Nandun na yung initial product line, brand story, at checkout flow. Ito yung v0.1 ng magiging D2C site natin. Kailangan namin ng feedback + devs para i-level up pa.
+1. **⛽ Vehicle Fuel**: Gasoline and Diesel for motorcycles, cars, and commercial vehicles
+2. **⚡ Personal Fuel**: Butcher Energy drinks, coffee, hydration, and snacks for sustained performance
 
-### 📦 Ano Laman ng Blueprint Repo na Ito?
+**Integrated Energy Store**: Every station includes a convenience retail component designed specifically for people on the road 24/7.
 
-| Folder/File | Description |
+### 🏪🛒 Store Components
+
+| Section | Offerings |
 | --- | --- |
-| `BUTCHER_Energy_Formula/` | R&D docs: ingredients, caffeine mg, flavor profiles, FDA compliance notes |
-| `BUTCHER_Action_Brand/` | Brand kit: logo, packaging dielines, 3D can renders, brand voice guide |
-| `BUTCHER_Energy_Store/` | Store ops: COGS breakdown, supplier list, fulfillment SOP, retail playbook |
-| `BUTCHER_Web/` | Code + assets ng live site. Next: Shopify/Magento migration |
-| `BUTCHER_Marketing/` | GTM plan: launch campaign, UGC strategy, 100 influencer target list |
-| `ROADMAP.md` | 12-month timeline from prototype to nationwide rollout |
+| **🥤 Fuel Bar** | Butcher Energy drinks, ready-to-drink coffee, bottled water, isotonic drinks, protein snacks |
+| **🔧 Road Essentials** | Motor oil, lubricants, phone mounts, chargers, power banks, rain gear, basic tools |
+| **👕 Butcher Merchandise** | Performance apparel, caps, arm sleeves, insulated tumblers with Butcher branding |
+| **🪑 Rest Zone** | Air-conditioned seating, device charging stations, complimentary WiFi, clean restrooms |
 
-### 🚀 Roadmap: From Prototype to Nationwide
+### 🎯💡 Market Opportunity
 
-**Phase 1: Prototype & Community Q2 2026**
-- Public beta ng website + pre-order waitlist
-- Finalize v1.0 can formula via community taste tests sa Caloocan/Manila
-- Recruit core team from contributors dito
+**Target Demographics:** 🏍️🚗🚛
+- Delivery riders: Grab, Foodpanda, Lalamove, Shopee Xpress
+- TNVS and taxi drivers operating 10 to 16 hour shifts
+- Logistics and trucking operators
+- Construction and BPO night shift workers
+- Long-distance commuters
 
-**Phase 2: First Production Q3 2026** 
-- First 10,000 cans production run
-- Fulfill pre-orders + launch sa Shopee/Lazada/TikTok Shop
-- First Butcher Fuel pop-up store
+**Strategic Advantages:**
+1. **⛽ Natural Purchase Bundling**: Customers refueling are highly likely to purchase beverages and convenience items
+2. **💰 Vertical Integration**: Owning the retail channel increases margins versus traditional third-party distribution
+3. **👥 Community Infrastructure**: Stations serve as designated hubs for rider and driver communities
+4. **📲 Technology Enabled**: Integrated loyalty platform connecting fuel purchases with in-store rewards
 
-**Phase 3: Scale Q4 2026 - 2027**
-- D2C website v2.0 migration
-- First flagship Fuel | Energy | Store sa Metro Manila
-- Distributor partnerships + regional expansion
+### 📦📂 Repository Structure
 
-### 🤝 Paano Ka Makaka-contribute?
+| Directory | Description |
+| --- | --- |
+| `⛽ BUTCHER_Station_Design/` | Site layouts, pump specifications, store floor plans, DOE compliance documentation |
+| `🥤 BUTCHER_Energy_Formula/` | R&D for Butcher Energy drink: ingredient sourcing, caffeine content, flavor profiles, FDA requirements |
+| `🛒 BUTCHER_Store_Operations/` | Standard operating procedures, inventory management, POS integration, staffing models |
+| `💻 BUTCHER_Web/` | Source code for butcherhub platform and future mobile loyalty application |
+| `🤝 BUTCHER_Franchise/` | Investment packages, financial projections, franchisee qualification criteria |
+| `🗺️ ROADMAP.md` | Three-year expansion plan from prototype to 100 locations |
 
-May live site na tayo. Mas real na ito. Kailangan namin ng:
+### 🚀📈 Development Roadmap
 
-1. **Web Devs**: I-improve yung butcherhub site. React/Next.js, Shopify, or Webflow experts. Check `BUTCHER_Web/` folder.
-2. **Product R&D**: Food techs, chemists. Help natin i-finalize yung formula sa `BUTCHER_Energy_Formula/`.
-3. **Creatives**: 3D artists para sa can renders, video editors para sa ads. Brand nasa `BUTCHER_Action_Brand/`.
-4. **Growth & Ops**: Marketers, supply chain, finance. Paano tayo mag-scale from 1 store to 100?
-5. **Beta Testers**: Taga-Metro Manila ka? Sign up sa site para sa taste test.
-6. **Investors/Partners**: May retail space, distro, or capital? Pag-usapan natin equity.
+**Phase 1: Digital Foundation Q2 to Q3 2026** 📱
+- Deploy butcherhub v2.0 with integrated station locator and pre-launch waitlist
+- Finalize Butcher Energy v1.0 formulation and conduct blind taste testing with target users
+- Secure fuel supply agreements and identify pilot location in Metro Manila
 
-**Para mag-start:**
-1. ⭐ **Star** mo yung repo para tumaas sa GitHub trending
-2. 🔍 **Browse** `https://butcherhub-6ca2tn9m.manus.space` tapos bigay feedback via Issues
-3. 🔱 **Fork** mo tapos check `Issues` tab na may `help wanted` tag
-4. 💬 **Join Discord** para sa weekly build-in-public calls
+**Phase 2: Flagship Launch Q4 2026** 🎉⛽
+- Grand opening of first Butcher Station: 2 to 4 fuel pumps with 50 sqm Energy Store
+- Launch Butcher Points loyalty program: Fuel and store purchases earn redeemable points
+- Commence 24/7 operations to serve night shift and logistics sectors
 
-### ⚖️ Business Model: Open-Source to Empire
+**Phase 3: Scale and Franchising 2027 to 2028** 🌏
+- Introduce franchise model: Estimated 6M to 10M PHP all-in investment
+- Target footprint: 15 stations in NCR, 35 stations in key provincial cities
+- Release Butcher mobile app: Real-time gas prices, pre-order beverages, digital wallet
 
-Open yung blueprint at development para makuha natin yung best people at ideas. Pero yung final company, brand, at trademarks ay bubuuin ng core team.
+### 🤝👷 Collaboration Opportunities
 
-**Top contributors get:**
-1. Public credit sa website + packaging
-2. First dibs sa core team roles
-3. Revenue share/equity vesting based sa contribution
+We are building in public and seeking partners across multiple disciplines:
 
-### 📜 License
+1. **⛽ Fuel Operations**: Professionals with downstream oil industry experience. DOE permits, depot logistics, and station management expertise required
+2. **🏗️ Design and Construction**: Architects and contractors specializing in compliant, efficient, and safe fuel retail environments
+3. **💻 Software Development**: Full-stack developers for e-commerce, inventory systems, and mobile loyalty applications
+4. **🧪 Food Scientists**: Formulation experts to optimize energy beverage for sustained performance without adverse effects
+5. **💼 Capital and Real Estate Partners**: Landowners along major highways or investors interested in franchise opportunities
+6. **🏍️ Community Representatives**: Leaders from rider and driver communities to advise on real operational needs
 
-MIT License para sa lahat ng docs, code, at assets dito. Fork mo, aralin mo, improve mo. Pero sama-sama tayo buuin yung main Butcher Fuel brand.
+**How to Contribute:** 🚦
+1. ⭐ **Star** this repository to increase visibility with potential partners and investors
+2. 🛠️ **Fork** the repo and review open Issues labeled `help-wanted`
+3. 💬 **Join our Discord** for weekly development sync meetings
+4. 📝 **Provide feedback** on https://butcherhub-6ca2tn9m.manus.space
 
-### 📞 Contact & Links
+### 💰📊 Business Model
 
-**Live Website:** https://butcherhub-6ca2tn9m.manus.space  
-**Project Lead:** nvm2002  
-**Email:** salazarbutchh@gmail.com  
+This repository operates under an open-source development framework to attract top talent and validate concepts publicly. All physical assets, fuel supply contracts, trademarks, and intellectual property will be owned by the incorporated entity.
 
-**This is not just a drink. This is a movement.**  
+**Early Contributor Benefits:** 🎁
+1. 📈 Equity allocation from the employee pool in the parent company
+2. 🔑 Priority access and discounted rates for franchise applications
+3. 🥤 Lifetime 20 percent discount across all Butcher Station locations
+4. 🏆 Recognition as "Founding Contributor" at the flagship station
 
-Kung butcher ka sa ginagawa mo araw-araw, para sa'yo 'to.  
-Kung gusto mo sumama sa pag-build ng susunod na malaking Filipino brand, welcome ka dito.
+### 📞📧 Contact
 
-**Star the repo. Test the site. Let's build.**
+**⛽ Official Website:** https://butcherhub-6ca2tn9m.manus.space  
+**👤 Project Lead:** nvm2002  
+**💼 Business Partnerships:** partners@butcher.fuel  
+**💬 Community Discord:** [Join Butcher HQ]
+
+---
+**To clarify once more: We do not sell meat products.** 🥩❌  
+**We provide two essential fuels: Gasoline for vehicles, Energy for people.** ⛽⚡
+
+Built for every Filipino who works relentlessly to move the economy forward.
+
+**⭐ Star the repository. Join the build. ⛽🚀**
