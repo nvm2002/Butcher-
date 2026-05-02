@@ -1,4 +1,4 @@
-# 🥩 BUTCHER FUEL & ENERGY
+# ⛽ BUTCHER FUEL | ENERGY | STORE
 
 > **Fuel the Grind. Energize the Hustle.**  
 > Complete open-source blueprint + live prototype for a next-gen energy brand.
@@ -88,10 +88,7 @@ MIT License para sa lahat ng docs, code, at assets dito. Fork mo, aralin mo, imp
 **Live Website:** https://butcherhub-6ca2tn9m.manus.space  
 **Project Lead:** nvm2002  
 **Email:** salazarbutchh@gmail.com  
-**Discord:** [Join the Grind](https://discord.gg/yourlink)  
-**TikTok/IG:** @butcher.fuel
 
----
 **This is not just a drink. This is a movement.**  
 
 Kung butcher ka sa ginagawa mo araw-araw, para sa'yo 'to.  
